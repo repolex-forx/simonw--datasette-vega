@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "datasette-vega",
+  "versions": [
+    {
+      "commit": "6fe66c4c9d0dba0a6eb636583914d2ed7d3d72a9",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:12:35.484361+00:00"
+    }
+  ]
+}
