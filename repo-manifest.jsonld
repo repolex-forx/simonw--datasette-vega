@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-vega/commit/6fe66c4c9d0dba0a6eb636583914d2ed7d3d72a9",
       "git:hexsha": "6fe66c4c9d0dba0a6eb636583914d2ed7d3d72a9",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/simonw/datasette-vega/commit/267bdbbf58b853ab110186f954a320bd16b1a811",
